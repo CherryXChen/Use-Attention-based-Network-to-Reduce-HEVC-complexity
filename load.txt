@@ -1,0 +1,3 @@
+module load Anaconda/3-5.0.0.1
+module load TensorFlow/1.8.0-fosscuda-2017b-Python-3.6.3
+source activate tf18
